@@ -4,7 +4,7 @@
 
 ## 🎬 동작 영상
 
-[![동작 영상](https://youtu.be/kMOGe5HuzZg)](https://youtu.be/kMOGe5HuzZg)
+[![동작 영상](https://img.youtube.com/vi/kMOGe5HuzZg/0.jpg)](https://youtu.be/kMOGe5HuzZg)
 
 ## 📌 프로젝트 개요
 
